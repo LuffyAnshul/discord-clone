@@ -1,6 +1,10 @@
 # Discord-Clone - React JS and Redux
 Note - Educational Purpose Only
 
+## NOTE: 
+### Add your firebase configurations to ./src/firebase.js
+<br>
+
 ## Demo Images
 
 <p style="float: left">
